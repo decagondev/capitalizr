@@ -1,0 +1,14 @@
+{
+  "name": "capitalizr",
+  "version": "1.0.3",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "capitalize",
+    "string",
+    "utility"
+  ],
+  "author": "Tom Tarpey (DecagonDev)",
+  "license": "ISC",
+  "description": "A simple Utility to capitalize a string in javascript"
+}
